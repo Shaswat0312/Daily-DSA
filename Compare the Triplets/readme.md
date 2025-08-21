@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ## PLATFORM : HACKERRANK
+=======
+# PLATFORM : HACKERRANK
+>>>>>>> 21dce1e435626946a11dcc07e23c102f267c02a4
 
+## QUESTION 
 
 Alice and Bob each created one problem for HackerRank. A reviewer rates the two challenges, awarding points on a scale from 1 to 100 for three categories: problem clarity, originality, and difficulty.
 
